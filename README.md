@@ -1,3 +1,0 @@
-# dotnetmicorservice
-# donetmicroservice
-# donetmicroservice
