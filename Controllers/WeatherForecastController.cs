@@ -17,8 +17,6 @@ namespace WebApplication1.Controllers
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
-        
-        private string result;
 
         public WeatherForecastController(ILogger<WeatherForecastController> logger)
         {
