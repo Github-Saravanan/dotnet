@@ -20,6 +20,8 @@ namespace WebApplication1
             Configuration = configuration;
         }
         private string result;
+        
+        private string Check;
         public IConfiguration Configuration { get; }
 
         // This method gets called by the runtime. Use this method to add services to the container.
